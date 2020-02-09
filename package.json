@@ -1,0 +1,25 @@
+{
+  "name": "jlittle-devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This module alllows for a dynamic footer to be generated  for Js applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0ckst23dy/jlittle-devcamp-js-footer-2.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Joshua Little <r0ck1ngst34dy@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r0ckst23dy/jlittle-devcamp-js-footer-2/issues"
+  },
+  "homepage": "https://github.com/r0ckst23dy/jlittle-devcamp-js-footer-2#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
